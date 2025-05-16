@@ -5,12 +5,6 @@ Hi, I’m **David Muhaimin** — a passionate learner in the world of **Cyber Se
 Currently sharpening my skills through personal projects, bootcamps, and certifications.  
 From securing systems to breaking them (ethically), I love exploring both sides of the digital battlefield.
 
-### What I Focus On
-- Blue Team operations (Defensive Security, SOC)
-- Linux Server Hardening & Monitoring
-- Network Security & Basic Penetration Testing
-- SysAdmin fundamentals (LAMP stack, Fail2ban, UFW, etc.)
-
 <h3 align="left">Social Media</h3>
 
 ###
