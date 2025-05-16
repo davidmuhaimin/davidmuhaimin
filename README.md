@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## hello
+![banner](img/banner.png)
 <!--
 **davidmuhaimin/davidmuhaimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
